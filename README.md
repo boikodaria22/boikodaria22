@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome to My GitHub Profile! 
+
+## About Me 💻
+Hi! I'm Daria, a passionate frontend developer with a love for all things coding. I have experience in JavaScript, TypeScript, Vue, Nuxt.
 
 <!--
 **boikodaria22/boikodaria22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
