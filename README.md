@@ -15,8 +15,6 @@ Hi! I'm Daria, a passionate frontend developer with a love for all things coding
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=boikodaria22)](https://git.io/streak-stats)
-
 <!--
 **boikodaria22/boikodaria22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
