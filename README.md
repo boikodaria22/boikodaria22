@@ -49,7 +49,6 @@ I'm all about crafting smooth user experiences, solving tricky layout puzzles, a
  <img src="https://img.shields.io/badge/Pinia-green?logo=pinia&logoColor=white&style=for-the-badge" alt="Pinia Badge"/>
  <img src="https://img.shields.io/badge/ESLint-informational?logo=eslint&logoColor=white&style=for-the-badge" alt="ESLint Badge"/>
  <img src="https://img.shields.io/badge/Nuxt-047018?logo=NuxtJS&logoColor=white&style=for-the-badge" alt="Nuxt Badge"/>
- <img src="https://img.shields.io/badge/socket.io-black?logo=Socket.io&logoColor=white&style=for-the-badge" alt="Socket.IO Badge"/>
  <img src="https://img.shields.io/badge/REST-orange?logo=api&logoColor=white&style=for-the-badge" alt="REST Badge"/>
  <img src="https://img.shields.io/badge/Webpack-9cf?logo=Webpack&logoColor=white&style=for-the-badge" alt="Webpack Badge"/>
  <img src="https://img.shields.io/badge/vite-8803fc?logo=Vite&logoColor=white&style=for-the-badge" alt="Vite Badge"/>
