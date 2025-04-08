@@ -17,7 +17,7 @@ Hi! I'm Daria, a passionate frontend developer with a love for all things coding
   </a>
 <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boikodaria22&layout=donut-vertical" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boikodaria22&layout=donut-vertical&theme=gruvbox" alt="Top Langs" />
   </a>
 
 ### Contact Me 💻
