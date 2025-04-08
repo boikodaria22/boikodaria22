@@ -56,7 +56,7 @@ I'm all about crafting smooth user experiences, solving tricky layout puzzles, a
  <img src="https://img.shields.io/badge/NPM-inactive?logo=npm&logoColor=white&style=for-the-badge" alt="NPM Badge"/>
  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="YARN Badge" />
  <img src="https://img.shields.io/badge/Git-blueviolet?logo=git&logoColor=white&style=for-the-badge" alt="Git Badge"/>
- <img src="https://img.shields.io/badge/vercel?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel Badge"/>
+ <img src="https://img.shields.io/badge/vercel-9cf?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel Badge"/>
 
 </p>
 
