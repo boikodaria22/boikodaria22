@@ -18,10 +18,10 @@ Hi! I'm Daria, a passionate frontend developer with a love for all things coding
 
 ### Contact Me 💻
 <div id="badges">
- <a href="www.linkedin.com/in/daria-boiko-1156a4149">
+ <a href="https://www.linkedin.com/in/daria-boiko-1156a4149">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
  </a>
- <a href="tg://resolve?domain=shadi_di_di">
+ <a href="https://tg://resolve?domain=shadi_di_di">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
  </a>
 </div>
