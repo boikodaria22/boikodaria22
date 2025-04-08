@@ -12,10 +12,12 @@ Hi! I'm Daria, a passionate frontend developer with a love for all things coding
 </div>
 
 ### :fire: My Stats :
+<span>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=boikodaria22&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
-
+</span>
+<span>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boikodaria22)](https://github.com/anuraghazra/github-readme-stats)
-
+</span>
 ### Contact Me 💻
 <div id="badges">
  <a href="https://www.linkedin.com/in/daria-boiko-1156a4149">
