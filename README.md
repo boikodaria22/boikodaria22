@@ -2,7 +2,8 @@
 
 <p align="center">
   <strong>Hi! I'm Daria 👋</strong><br/>
-  A passionate frontend developer from 🇺🇦 Ukraine
+  A frontend developer who loves to turn ideas into clean, elegant code ✨<br/>
+  Based in 🇺🇦 Ukraine
 </p>
 
 <p align="center" id="badges">
@@ -17,16 +18,35 @@
 ---
 
 ### 💻 About Me
-I’m a frontend developer who loves building beautiful and interactive web experiences.  
-Experienced with:
-- **JavaScript**, **TypeScript**
-- **Vue**, **Nuxt**
-- <strong>Writing clean, reusable code and crafting pixel-perfect UI</strong>
+
+Hi there! I'm **Daria**, a frontend developer who turns ideas into sleek, responsive interfaces.  
+I'm all about crafting smooth user experiences, solving tricky layout puzzles, and making the web a more beautiful place — one component at a time.
+
+💡 Things that fuel my code:
+- A good cup of coffee ☕
+- Clean, reusable components
+- Late-night debugging marathons (with music, of course 🎧)
+
+🌱 Currently diving deeper into:
+- TypeScript wizardry 🧙‍♀️
+- Vue 3 Composition API
+- Accessibility & performance best practices
+
+🔍 I believe in:
+- Writing code that *feels good* to read
+- Learning something new every day
+- The power of the “inspect element” tool 😄
+
+---
+### 🛠️ Tech Stack
 
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt.js" alt="Nuxt.js" width="40" height="40"/>&nbsp;
 </p>
 
 ---
