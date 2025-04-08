@@ -18,8 +18,6 @@
 ---
 
 ### 💻 About Me
-
-Hi there! I'm **Daria**, a frontend developer who turns ideas into sleek, responsive interfaces.  
 I'm all about crafting smooth user experiences, solving tricky layout puzzles, and making the web a more beautiful place — one component at a time.
 
 💡 Things that fuel my code:
