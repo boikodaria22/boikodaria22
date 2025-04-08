@@ -52,7 +52,7 @@ I'm all about crafting smooth user experiences, solving tricky layout puzzles, a
 ### 🔥 My GitHub Stats
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boikodaria22&layout=donut-vertical&theme=gruvbox&hide_border=true" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boikodaria22&layout=donut-vertical&theme=gruvbox&hide_border=true" alt="Top Langs" style="width: 495px;" />
   </a>
 <br/>
   <a href="https://git.io/streak-stats">
