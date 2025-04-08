@@ -56,7 +56,7 @@ I'm all about crafting smooth user experiences, solving tricky layout puzzles, a
   </a>
 <br/>
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=boikodaria22&theme=gruvbox&hide_border=true" alt="GitHub Streak" style="max-width: 300px;"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=boikodaria22&theme=gruvbox&hide_border=true&card_width=300" alt="GitHub Streak""/>
   </a>
 
 <!--
