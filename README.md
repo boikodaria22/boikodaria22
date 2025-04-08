@@ -1,6 +1,8 @@
-## Welcome to My GitHub Profile! 
+![Header](./github-header-image.png)
 
-## About Me 💻
+Welcome to My GitHub Profile! 
+
+### About Me 💻
 Hi! I'm Daria, a passionate frontend developer with a love for all things coding. I have experience in JavaScript, TypeScript, Vue, Nuxt.
 
 <!--
