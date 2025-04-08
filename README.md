@@ -1,9 +1,7 @@
 ![Header](./github-header-image.png)
 
 
-<p align="center">Welcome to My GitHub Profile!</p> 
-
-### About Me 💻
+### <p align="center">About Me 💻<p align="center">
 Hi! I'm Daria, a passionate frontend developer from Ukraine.
 
 <div>
