@@ -17,7 +17,7 @@ Hi! I'm Daria, a passionate frontend developer with a love for all things coding
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boikodaria22&layout=donut-vertical&theme=gruvbox" alt="Top Langs" style="width: 25%; height: 100%; object-fit: cover;"/>
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=boikodaria22&theme=gruvbox&hide_border=true" alt="GitHub Streak" style="width: auto; height: auto; object-fit: cover;"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=boikodaria22&theme=gruvbox&hide_border=true" alt="GitHub Streak" style="width: auto; height: 100%; object-fit: cover;"/>
   </a>
 </div>
 
