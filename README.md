@@ -14,7 +14,8 @@ Hi! I'm Daria, a passionate frontend developer with a love for all things coding
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=boikodaria22&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=900)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=boikodaria22&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=900" alt="GitHub Streak" /></a>
+
 <!--
 **boikodaria22/boikodaria22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
