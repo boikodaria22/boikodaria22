@@ -12,11 +12,11 @@ Hi! I'm Daria, a passionate frontend developer with a love for all things coding
 </div>
 
 ### :fire: My Stats :
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://git.io/streak-stats">
+<div style="display: flex; justify-content: space-between; align-items: stretch; gap: 10px;">
+  <a href="https://git.io/streak-stats" style="flex: 1;">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=boikodaria22&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boikodaria22" alt="Top Langs"/>
   </a>
 </div>
