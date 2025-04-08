@@ -12,7 +12,7 @@ Hi! I'm Daria, a passionate frontend developer with a love for all things coding
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=boikodaria22&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=boikodaria22&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boikodaria22)](https://github.com/anuraghazra/github-readme-stats)
 
