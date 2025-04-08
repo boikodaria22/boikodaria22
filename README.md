@@ -1,5 +1,15 @@
 ![Header](./github-header-image.png)
 
+<p align="center">Hi! I'm Daria, a passionate frontend developer from Ukraine.</p>
+<div id="badges" align="center">
+ <a href="https://www.linkedin.com/in/daria-boiko-1156a4149">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+ </a>
+ <a href="https://t.me/shadi_di_di">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+ </a>
+</div>
+
 
 ### <p align="center">About Me 💻<p align="center">
 Hi! I'm Daria, a passionate frontend developer from Ukraine.
@@ -19,16 +29,6 @@ Hi! I'm Daria, a passionate frontend developer from Ukraine.
   <img src="http://github-readme-streak-stats.herokuapp.com?user=boikodaria22&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 </a>
 
-
-### Contact Me 💻
-<div id="badges">
- <a href="https://www.linkedin.com/in/daria-boiko-1156a4149">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
- </a>
- <a href="https://t.me/shadi_di_di">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
- </a>
-</div>
 
 <!--
 **boikodaria22/boikodaria22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
