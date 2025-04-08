@@ -39,12 +39,24 @@ I'm all about crafting smooth user experiences, solving tricky layout puzzles, a
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt.js" alt="Nuxt.js" width="40" height="40"/>&nbsp;
+ <img src="https://img.shields.io/badge/Typescript-blue?logo=Typescript&logoColor=white&style=for-the-badge" alt="Typescript Badge"/>
+ <img src="https://img.shields.io/badge/Javascript-yellow?logo=Javascript&logoColor=white&style=for-the-badge" alt="Javascript Badge"/> 
+ <img src="https://img.shields.io/badge/VueJS-blue?logo=Vue&logoColor=white&style=for-the-badge" alt="VueJS Badge"/>
+ <img src="https://img.shields.io/badge/HTML-critical?logo=HTMl5&logoColor=white&style=for-the-badge" alt="HTML Badge"/>
+ <img src="https://img.shields.io/badge/CSS3-blueviolet?logo=CSS3&logoColor=white&style=for-the-badge" alt="CSS3 Badge"/>
+ <img src="https://img.shields.io/badge/SASS-ff69b4?logo=SASS&logoColor=white&style=for-the-badge" alt="SASS Badge"/>
+ <img src="https://img.shields.io/badge/LESS-ff69b4?logo=LESS&logoColor=white&style=for-the-badge" alt="LESS Badge"/>
+ <img src="https://img.shields.io/badge/Pinia-yellowgreen?logo=pinia&logoColor=white&style=for-the-badge" alt="Pinia Badge"/>
+ <img src="https://img.shields.io/badge/ESLint-informational?logo=eslint&logoColor=white&style=for-the-badge" alt="ESLint Badge"/>
+ <img src="https://img.shields.io/badge/NuxtJS-green?logo=nuxt.js&logoColor=white&style=for-the-badge" alt="Nuxt Badge"/>
+ <img src="https://img.shields.io/badge/socket.io-black?logo=Socket.io&logoColor=white&style=for-the-badge" alt="Socket.IO Badge"/>
+ <img src="https://img.shields.io/badge/REST-orange?logo=api&logoColor=white&style=for-the-badge" alt="REST Badge"/>
+ <img src="https://img.shields.io/badge/Webpack-9cf?logo=Webpack&logoColor=white&style=for-the-badge" alt="Webpack Badge"/>
+ <img src="https://img.shields.io/badge/vite-9cf?logo=Vite&logoColor=white&style=for-the-badge" alt="Vite Badge"/>
+ <img src="https://img.shields.io/badge/NPM-inactive?logo=npm&logoColor=white&style=for-the-badge" alt="NPM Badge"/>
+ <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="YARN Badge" />
+ <img src="https://img.shields.io/badge/Git-blueviolet?logo=git&logoColor=white&style=for-the-badge" alt="Git Badge"/>
+
 </p>
 
 ---
