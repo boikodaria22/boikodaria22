@@ -51,14 +51,13 @@ I'm all about crafting smooth user experiences, solving tricky layout puzzles, a
 
 ### 🔥 My GitHub Stats
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 100%; height: 100%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boikodaria22&layout=donut-vertical&theme=gruvbox" alt="Top Langs" style="width: 100%; height: 100%; object-fit: cover;"/>
   </a>
+<br/>
   <a href="https://git.io/streak-stats" style="width: 100%; height: 100%;">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=boikodaria22&theme=gruvbox&hide_border=true" alt="GitHub Streak" style="width: 100%; height: 100%; object-fit: cover;"/>
   </a>
-</div>
 
 <!--
 **boikodaria22/boikodaria22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
