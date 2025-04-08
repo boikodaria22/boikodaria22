@@ -13,11 +13,11 @@ Hi! I'm Daria, a passionate frontend developer with a love for all things coding
 
 ### :fire: My Stats :
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 100%; height: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boikodaria22&layout=donut-vertical&theme=gruvbox" alt="Top Langs" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boikodaria22&layout=donut-vertical&theme=gruvbox" alt="Top Langs" style="width: 100%; height: 100%; object-fit: cover;"/>
   </a>
-  <a href="https://git.io/streak-stats" style="width: 100%; height: 100%;">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=boikodaria22&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=boikodaria22&theme=gruvbox&hide_border=true" alt="GitHub Streak" style="width: 100%; height: 100%; object-fit: cover;"/>
   </a>
 </div>
 
