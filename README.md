@@ -28,6 +28,8 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=boikodaria22&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=boikodaria22)](https://git.io/streak-stats)
+
 
 <!--
 **boikodaria22/boikodaria22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
